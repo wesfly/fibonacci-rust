@@ -31,17 +31,16 @@ This will compile and run the program, generating the Fibonacci sequence.
 ### Example Output
 
 ```
-Fibonacci sequence:
-0
-1
-1
-2
-3
-5
-8
-13
-21
-34
+Fibonacci Sequence:
+Iteration 1: 0
+Iteration 2: 1
+Iteration 3: 1
+Iteration 4: 2
+Iteration 5: 3
+Iteration 6: 5
+Iteration 7: 8
+Iteration 8: 13
+Iteration 9: 21
 ...
 ```
 

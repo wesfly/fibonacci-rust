@@ -1,9 +1,10 @@
 fn main() {
+    println!("Fibonacci Sequence");
     let max_n = 185; // Define the maximum value of n as a constant
     for i in 0..=max_n {
         // Include the upper bound in the range
         let x: u128 = fib(i); // Call the fib function with the current iteration number
-        println!("Iteration: {}", i + 1);
+        print!("Iteration {}: ", i + 1);
         println!("{:#?}", x);
     }
 }
