@@ -45,4 +45,3 @@ Iteration 9: 21
 ```
 
 You can modify ```max_iterations``` to change the number of terms generated in the sequence by editing the source code.
-# fibonacci-rust
